@@ -1,5 +1,5 @@
 {
-  "name": "swappsco/image-source-manager",
+  "name": "mateo-swapps/image-source-manager",
   "description": "Mi plugin para WordPress instalable con Composer",
   "type": "wordpress-plugin",
   "require": {
@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Swappsco\\ImageSourceManager\\": "src/"
+      "mateo-swapps\\ImageSourceManager\\": "src/"
     }
   },
   "extra": {
